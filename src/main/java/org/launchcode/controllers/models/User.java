@@ -1,7 +1,7 @@
 package org.launchcode.controllers.models;
 
 import jakarta.validation.constraints.Email;
-
+//
 import java.util.Objects;
 
 public class User {
